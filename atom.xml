@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://givepromise.github.io</id>
+    <title>GivePromise Blog</title>
+    <updated>2021-02-28T11:52:06.495Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://givepromise.github.io"/>
+    <link rel="self" href="https://givepromise.github.io/atom.xml"/>
+    <subtitle>落下星辰</subtitle>
+    <logo>https://givepromise.github.io/images/avatar.png</logo>
+    <icon>https://givepromise.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, GivePromise Blog</rights>
+</feed>
